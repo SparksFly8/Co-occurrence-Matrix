@@ -1,6 +1,6 @@
 # Python构建共现矩阵并将其三元组表示存储至csv文件
 ![](https://img.shields.io/badge/license-MIT-success.svg)
-[![](https://img.shields.io/badge/CSDN-SL_World-orange.svg)](https://blog.csdn.net/SL_World)
+[![](https://img.shields.io/badge/Blog-SL_World-orange.svg)](https://blog.csdn.net/SL_World)
 ## 引言：共现矩阵有什么用？
 
 主要用于发现主题，解决**词向量相近关系**的表示； 
