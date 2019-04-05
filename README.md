@@ -1,5 +1,5 @@
 # Python构建共现矩阵并将其三元组表示存储至csv文件
-![](https://img.shields.io/badge/license-MIT-000000.svg)
+![](https://img.shields.io/badge/license-MIT-#02F703.svg)
 ![](https://img.shields.io/cocoapods/dt/AFNetworking.svg)
 [![](https://img.shields.io/badge/CSDN-SL_World-green.svg)](https://blog.csdn.net/SL_World)
 ## 引言：共现矩阵有什么用？
